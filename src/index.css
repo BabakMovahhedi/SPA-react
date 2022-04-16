@@ -23,3 +23,15 @@ margin-top: 0px;
 li{
   margin-left: 30px;
 }
+.footer{
+  background: rgb(244, 200, 200);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  text-justify: auto;
+  height: 60px;
+}
+.aside{
+  background: rgb(58, 112, 118);
+}
